@@ -1,0 +1,157 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+header  {
+    background-color: #FFD900;
+}
+
+#img1 {
+    margin: 25px auto 28px 50px;
+}
+
+/* Reviva o Épico!! */
+
+#sectionOne{
+    display: inline-block;
+    display: flex;
+    height: 630px;
+}
+
+#areaTxt {
+    background: #514988;
+    text-align: center;
+    padding: 10px 40px;
+    width: 45%;
+}
+
+#txtOne {
+    font-weight: 700;
+    font-size: 70px;
+    color: #F3C61F;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#txtTwo {
+    font-size: 25px;
+    color: white;
+    font-weight: 900;
+}
+
+#paragrafo {
+    margin-bottom: 300px;
+}
+
+#areaTxt p {
+    color: white;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 35px;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+#areaTxtTwo  {
+    width: 55%;
+    display: flex;
+    height: 100px;
+
+
+}
+
+.countdown-el {
+    color: #514988;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 85px;
+    display: flex;
+    margin: 20px 30px 15px 50px;
+    text-align: center;
+
+}
+
+#dayM{
+    margin-left: 60px;
+    margin-bottom: 5px;
+}
+
+#CCXP {
+    position: absolute;
+    height: 50PX;
+    width: 55%;
+    top: 220PX;
+    left: 908px;
+    text-align: center;
+    color: #E33881;
+    font-weight: 700;
+    font-size: 20px;    
+}
+
+#video {
+    position: absolute;
+    top: 250px;
+    left: 970px;
+}
+
+#video video {
+    /* width: 90%; */
+    width: 870px;
+    height: 500px;
+}
+
+#ingressoTxt {
+    color: #F3C61F;
+    width: 55%;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 33px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    position: absolute; 
+}
+
+#txtFinal {
+    position: absolute;
+   left: 8rem;
+   margin-top: 2rem;
+}
+
+#ingressoImg {
+    position: absolute;
+    top: 830px;
+    left: 7rem;
+}
+
+
+#button {
+    position: absolute;
+    width: 596px;
+    height: 148px;
+    left: 1090px;
+    top: 870px;
+    background: #514988;
+    border-radius: 20px;
+
+
+    font-size: 50px;
+    line-height: 61px;
+
+
+
+}
+
+button:hover {
+    background: #514988;
+    cursor: pointer;
+    color: #FFD900;
+}
